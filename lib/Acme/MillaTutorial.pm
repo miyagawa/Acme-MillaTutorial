@@ -2,7 +2,7 @@ package Acme::MillaTutorial;
 
 use strict;
 use 5.008_005;
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 sub hello {
     return "Hello World Foo bar";

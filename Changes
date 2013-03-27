@@ -2,5 +2,8 @@ Revision history for Acme-MillaTutorial
 
 {{$NEXT}}
 
+0.02  2013-03-27 13:19:49 PDT
+        - Update hello() method to return something different
+
 0.01  2013-03-27 13:17:14 PDT
         - Initial release
