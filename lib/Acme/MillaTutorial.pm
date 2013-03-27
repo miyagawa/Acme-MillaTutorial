@@ -4,6 +4,10 @@ use strict;
 use 5.008_005;
 our $VERSION = '0.01';
 
+sub hello {
+    return "Hello World";
+}
+
 1;
 __END__
 
@@ -11,15 +15,16 @@ __END__
 
 =head1 NAME
 
-Acme::MillaTutorial - Blah blah blah
+Acme::MillaTutorial - Tutorial samples
 
 =head1 SYNOPSIS
 
   use Acme::MillaTutorial;
+  Acme::Milla::Tutorial->hello();
 
 =head1 DESCRIPTION
 
-Acme::MillaTutorial is
+Acme::MillaTutorial is foo bar baz.
 
 =head1 AUTHOR
 
