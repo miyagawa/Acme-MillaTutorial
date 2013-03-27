@@ -5,7 +5,7 @@ use 5.008_005;
 our $VERSION = '0.01';
 
 sub hello {
-    return "Hello World";
+    return "Hello World Foo bar";
 }
 
 1;
