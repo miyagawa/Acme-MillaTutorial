@@ -1,5 +1,5 @@
 {
-   "abstract" : "Blah blah blah",
+   "abstract" : "Tutorial samples",
    "author" : [
       "Tatsuhiko Miyagawa <miyagawa@bulknews.net>"
    ],
@@ -36,6 +36,17 @@
       }
    },
    "release_status" : "stable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/miyagawa/Acme-MillaTutorial/issues"
+      },
+      "homepage" : "https://github.com/miyagawa/Acme-MillaTutorial",
+      "repository" : {
+         "type" : "git",
+         "url" : "https://github.com/miyagawa/Acme-MillaTutorial.git",
+         "web" : "https://github.com/miyagawa/Acme-MillaTutorial"
+      }
+   },
    "version" : "0.01"
 }
 

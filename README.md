@@ -1,14 +1,15 @@
 # NAME
 
-Acme::MillaTutorial - Blah blah blah
+Acme::MillaTutorial - Tutorial samples
 
 # SYNOPSIS
 
     use Acme::MillaTutorial;
+    Acme::Milla::Tutorial->hello();
 
 # DESCRIPTION
 
-Acme::MillaTutorial is
+Acme::MillaTutorial is foo bar baz.
 
 # AUTHOR
 
