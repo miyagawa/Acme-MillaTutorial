@@ -1,0 +1,6 @@
+/Acme-MillaTutorial-*
+/.build
+/_build*
+/Build
+MYMETA.*
+!META.json
